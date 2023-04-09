@@ -1,3 +1,4 @@
 text.txt
 *.pdf
 !text.pdf
+new.txt
